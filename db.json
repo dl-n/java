@@ -1,0 +1,375 @@
+{
+
+"javacourses":[
+    {
+      "id":1,
+      "basename":"Java",
+      "cname":"Basics of Java",
+      "url":"https://i.ibb.co/vZ4vjS5/j2.jpg",
+      "content":"content of basics of Java",
+
+      "outlet":[
+        {
+          "topic":"Introduction to JAVA"
+        },
+        {
+          "topic":"New Features JAVASE 6 & J2SE 5.0"
+        },
+        {
+          "topic":"Java 7 New Features"
+        },
+        {
+          "topic":"Basic Core Java"
+        },
+        {
+          "topic":"FAQ’s and SCJP Exam Oriented Concepts"
+        },
+        {
+          "topic":"JDBC 4.0 and Servlets 3.0"
+        },
+        {
+          "topic":"JSP 2.2 and JAXP 1.2 (Java API for XML Parsing)"
+        },
+        {
+          "topic":"RMI-Remote Method Ivocation and J2EE Design Patterns"
+        },
+        {
+          "topic":"EJB – Enterprise Java Beans and IDE’S TOOLS"
+        },
+        {
+          "topic":"JTS/JTA-JavaTransaction Service / Java Transaction API"
+        },
+        {
+          "topic":"JNDI-Java Naming & Directory Interface"
+        },
+        {
+          "topic":"JAAS (Java Authentication and Authorization Service)"
+        },
+        {
+          "topic":"JMS 1.1 (Java Messaging Service)"
+        },
+        {
+          "topic":"XML (extensible markup Language)"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "basename":"Java",
+      "cname":"Function Concepts",
+      "url":"https://i.ibb.co/DQjxF8b/j3.png",
+      "content":"content of Function Concepts",
+
+      "outlet":[
+        {
+          "topic":"Introduction to JAVA"
+        },
+        {
+          "topic":"New Features JAVASE 6 & J2SE 5.0"
+        },
+        {
+          "topic":"Java 7 New Features"
+        },
+        {
+          "topic":"Basic Core Java"
+        },
+        {
+          "topic":"FAQ’s and SCJP Exam Oriented Concepts"
+        },
+        {
+          "topic":"JDBC 4.0 and Servlets 3.0"
+        },
+        {
+          "topic":"JSP 2.2 and JAXP 1.2 (Java API for XML Parsing)"
+        },
+        {
+          "topic":"RMI-Remote Method Ivocation and J2EE Design Patterns"
+        },
+        {
+          "topic":"EJB – Enterprise Java Beans and IDE’S TOOLS"
+        },
+        {
+          "topic":"JTS/JTA-JavaTransaction Service / Java Transaction API"
+        },
+        {
+          "topic":"JNDI-Java Naming & Directory Interface"
+        },
+        {
+          "topic":"JAAS (Java Authentication and Authorization Service)"
+        },
+        {
+          "topic":"JMS 1.1 (Java Messaging Service)"
+        },
+        {
+          "topic":"XML (extensible markup Language)"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "basename":"Java",
+      "cname":"OOPS Concepts",
+      "url":"https://i.ibb.co/sQ7S8V0/j4.png",
+      "content":"content of OOPS Concepts",
+
+      "outlet":[
+        {
+          "topic":"Introduction to JAVA"
+        },
+        {
+          "topic":"New Features JAVASE 6 & J2SE 5.0"
+        },
+        {
+          "topic":"Java 7 New Features"
+        },
+        {
+          "topic":"Basic Core Java"
+        },
+        {
+          "topic":"FAQ’s and SCJP Exam Oriented Concepts"
+        },
+        {
+          "topic":"JDBC 4.0 and Servlets 3.0"
+        },
+        {
+          "topic":"JSP 2.2 and JAXP 1.2 (Java API for XML Parsing)"
+        },
+        {
+          "topic":"RMI-Remote Method Ivocation and J2EE Design Patterns"
+        },
+        {
+          "topic":"EJB – Enterprise Java Beans and IDE’S TOOLS"
+        },
+        {
+          "topic":"JTS/JTA-JavaTransaction Service / Java Transaction API"
+        },
+        {
+          "topic":"JNDI-Java Naming & Directory Interface"
+        },
+        {
+          "topic":"JAAS (Java Authentication and Authorization Service)"
+        },
+        {
+          "topic":"JMS 1.1 (Java Messaging Service)"
+        },
+        {
+          "topic":"XML (extensible markup Language)"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "basename":"Java",
+      "cname":"Core Java",
+      "url":"https://i.ibb.co/qk9H22d/j5.jpg",
+      "content":"content of Core Java",
+
+      "outlet":[
+        {
+          "topic":"Introduction to JAVA"
+        },
+        {
+          "topic":"New Features JAVASE 6 & J2SE 5.0"
+        },
+        {
+          "topic":"Java 7 New Features"
+        },
+        {
+          "topic":"Basic Core Java"
+        },
+        {
+          "topic":"FAQ’s and SCJP Exam Oriented Concepts"
+        },
+        {
+          "topic":"JDBC 4.0 and Servlets 3.0"
+        },
+        {
+          "topic":"JSP 2.2 and JAXP 1.2 (Java API for XML Parsing)"
+        },
+        {
+          "topic":"RMI-Remote Method Ivocation and J2EE Design Patterns"
+        },
+        {
+          "topic":"EJB – Enterprise Java Beans and IDE’S TOOLS"
+        },
+        {
+          "topic":"JTS/JTA-JavaTransaction Service / Java Transaction API"
+        },
+        {
+          "topic":"JNDI-Java Naming & Directory Interface"
+        },
+        {
+          "topic":"JAAS (Java Authentication and Authorization Service)"
+        },
+        {
+          "topic":"JMS 1.1 (Java Messaging Service)"
+        },
+        {
+          "topic":"XML (extensible markup Language)"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        },
+        {
+          "pre":"And required basic knowledge to undrestand syntax"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "basename":"Java",
+      "cname":"Advance Java",
+      "url":"https://i.ibb.co/KbP4dcH/j6.jpg",
+      "content":"content of Advance Java",
+
+      "outlet":[
+        {
+          "topic":"Introduction to JAVA"
+        },
+        {
+          "topic":"New Features JAVASE 6 & J2SE 5.0"
+        },
+        {
+          "topic":"Java 7 New Features"
+        },
+        {
+          "topic":"Basic Core Java"
+        },
+        {
+          "topic":"FAQ’s and SCJP Exam Oriented Concepts"
+        },
+        {
+          "topic":"JDBC 4.0 and Servlets 3.0"
+        },
+        {
+          "topic":"JSP 2.2 and JAXP 1.2 (Java API for XML Parsing)"
+        },
+        {
+          "topic":"RMI-Remote Method Ivocation and J2EE Design Patterns"
+        },
+        {
+          "topic":"EJB – Enterprise Java Beans and IDE’S TOOLS"
+        },
+        {
+          "topic":"JTS/JTA-JavaTransaction Service / Java Transaction API"
+        },
+        {
+          "topic":"JNDI-Java Naming & Directory Interface"
+        },
+        {
+          "topic":"JAAS (Java Authentication and Authorization Service)"
+        },
+        {
+          "topic":"JMS 1.1 (Java Messaging Service)"
+        },
+        {
+          "topic":"XML (extensible markup Language)"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        },
+        {
+          "pre":"And required basic knowledge to undrestand syntax"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "basename":"Java",
+      "cname":"Java Framework",
+      "url":"https://i.ibb.co/19CKrRx/j7.jpg",
+      "content":"content of Java Framework",
+
+      "outlet":[
+        {
+          "topic":"Introduction to JAVA"
+        },
+        {
+          "topic":"New Features JAVASE 6 & J2SE 5.0"
+        },
+        {
+          "topic":"Java 7 New Features"
+        },
+        {
+          "topic":"Basic Core Java"
+        },
+        {
+          "topic":"FAQ’s and SCJP Exam Oriented Concepts"
+        },
+        {
+          "topic":"JDBC 4.0 and Servlets 3.0"
+        },
+        {
+          "topic":"JSP 2.2 and JAXP 1.2 (Java API for XML Parsing)"
+        },
+        {
+          "topic":"RMI-Remote Method Ivocation and J2EE Design Patterns"
+        },
+        {
+          "topic":"EJB – Enterprise Java Beans and IDE’S TOOLS"
+        },
+        {
+          "topic":"JTS/JTA-JavaTransaction Service / Java Transaction API"
+        },
+        {
+          "topic":"JNDI-Java Naming & Directory Interface"
+        },
+        {
+          "topic":"JAAS (Java Authentication and Authorization Service)"
+        },
+        {
+          "topic":"JMS 1.1 (Java Messaging Service)"
+        },
+        {
+          "topic":"XML (extensible markup Language)"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        },
+        {
+          "pre":"And required basic knowledge to undrestand syntax"
+        }
+      ]
+    } 
+  ]
+
+}
