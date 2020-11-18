@@ -5,7 +5,7 @@
       "id":1,
       "basename":"Java",
       "cname":"Basics of Java",
-      "url":"https://i.ibb.co/vZ4vjS5/j2.jpg",
+      "url":"./images/java1.jpg",
       "content":"content of basics of Java",
 
       "outlet":[
@@ -65,7 +65,7 @@
       "id":2,
       "basename":"Java",
       "cname":"Function Concepts",
-      "url":"https://i.ibb.co/DQjxF8b/j3.png",
+      "url":"./images/java2.jpg",
       "content":"content of Function Concepts",
 
       "outlet":[
@@ -125,7 +125,7 @@
       "id":3,
       "basename":"Java",
       "cname":"OOPS Concepts",
-      "url":"https://i.ibb.co/sQ7S8V0/j4.png",
+      "url":"./images/java3.jpg",
       "content":"content of OOPS Concepts",
 
       "outlet":[
@@ -185,7 +185,7 @@
       "id":4,
       "basename":"Java",
       "cname":"Core Java",
-      "url":"https://i.ibb.co/qk9H22d/j5.jpg",
+      "url":"./images/java4.jpg",
       "content":"content of Core Java",
 
       "outlet":[
@@ -248,7 +248,7 @@
       "id":5,
       "basename":"Java",
       "cname":"Advance Java",
-      "url":"https://i.ibb.co/KbP4dcH/j6.jpg",
+      "url":"./images/java5.png",
       "content":"content of Advance Java",
 
       "outlet":[
@@ -311,7 +311,7 @@
       "id":6,
       "basename":"Java",
       "cname":"Java Framework",
-      "url":"https://i.ibb.co/19CKrRx/j7.jpg",
+      "url":"./images/java6.png",
       "content":"content of Java Framework",
 
       "outlet":[
